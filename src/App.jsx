@@ -8,6 +8,7 @@ import Login from "./Components/Acount/Login";
 import SignUp from "./Components/Acount/SignUp";
 import Hotels from "./Components/Hotel/Hotels";
 import TourPackages from "./Components/TourPackages/TourPackages";
+import Hotel from "./Components/HotelPage/Hotel";
 
 function App() {
   return (
@@ -22,7 +23,7 @@ function App() {
         ></Route> */}
         <Route path="/signin" element={<Login />}></Route>
         <Route path="/signup" element={<SignUp />}></Route>
-        <Route path="/hotel" element={<Hotels></Hotels>}></Route>
+        <Route path="/hotel" element={<Hotel />}></Route>
         <Route
           path="/packageDetails"
           element={<PopularPackageCardDetails />}

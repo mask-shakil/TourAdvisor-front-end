@@ -1,38 +1,38 @@
 [
     {
         "id":"1",
-        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
-        "title":"Hotel Gulisthan",
+        "img":"https://img.freepik.com/free-photo/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table_105762-1783.jpg?size=626&ext=jpg&ga=GA1.2.1270014827.1685105541&semt=sph",
+        "title":"Roma, Bandarban",
         "day":"Per night check in",
-        "price":"BDT 320"
+        "price":"BDT 45320"
     },
     {
         "id":"2",
         "img":"https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150759.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
-        "title":"Hotel sakwat abashik",
+        "title":"Sakwat, Dhaka",
         "day":"Per night check in",
-        "price":"BDT 320"
+        "price":"BDT 54320"
     },
     {
         "id":"3",
-        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
-        "title":"Hotel Mahedi abashik",
+        "img":"https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150751.jpg?size=626&ext=jpg&ga=GA1.2.1270014827.1685105541&semt=sph",
+        "title":"Shakil,Dahaka",
         "day":"Per night check in",
         "price":"BDT 320"
     },
     {
         "id":"4",
         "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
-        "title":"Hotel Gulisthan",
+        "title":"Tiger,SundarBan",
         "day":"Per night check in",
-        "price":"BDT 320"
+        "price":"BDT 23320"
     },
     {
         "id":"5",
-        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
-        "title":"Hotel Gulisthan",
+        "img":"https://img.freepik.com/premium-photo/home-house-exterior-design-showing-tropical-pool-villa-with-sun-bed_41487-564.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"see, Cox's Bazar",
         "day":"Per night check in",
-        "price":"BDT 320"
+        "price":"BDT 232320"
     },
     {
         "id":"6",
