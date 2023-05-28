@@ -1,0 +1,94 @@
+[
+    {
+        "id":"1",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"2",
+        "img":"https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150759.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel sakwat abashik",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"3",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Mahedi abashik",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"4",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"5",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"6",
+        "img":"https://img.freepik.com/premium-photo/modern-house-forest-illustration-ai-generative_115919-5713.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"7",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"8",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"9",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"10",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+
+    {
+        "id":"11",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"12",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    },
+    {
+        "id":"13",
+        "img":"https://img.freepik.com/free-photo/modern-studio-apartment-design-with-bedroom-living-space_1262-12375.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "title":"Hotel Gulisthan",
+        "day":"Per night check in",
+        "price":"BDT 320"
+    }
+]

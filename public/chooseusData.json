@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "title":"High Quality Service Assurance",
+        "img":"https://img.freepik.com/premium-photo/businessman-holding-showing-best-quality-assurance-with-golden-five-stars-guarantee-product-iso-service-concept_50039-3485.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=ais",
+        "content":"We assure the quality services for every single trip with best tour plan, high rated accommodations, transportation's and quality food. Our full time knowledgeable and accompanied guide are committed to make it perfect."
+    },
+    {
+        "id":"2",
+        "title":"Free Cancellation & Booking Policy",
+        "img":"https://img.freepik.com/free-photo/retro-comics-speech-bubble-composition_23-2149006221.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "content":"We offer free cancellation & booking Policy for any tour. In some cases, you can cancel or book the tour on the day before it starts. Please check our Booking & Cancellation Policy to know more about each tour."
+    },
+    {
+        "id":"3",
+        "title":"Safe & Sustainable Travel",
+        "img":"https://img.freepik.com/free-photo/3d-internet-secuirty-badge_1048-18106.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=sph",
+        "content":"Your next travel should be safe & sustainable after the COVID-19 outbreak. We assure safety on every step maintaining rules awareness and offering healthy food. We focus on sustainability of nature and eco-friendly travel."
+    },
+    {
+        "id":"4",
+        "title":"Best Price Deal",
+        "img":"https://img.freepik.com/free-photo/red-sign-wood-board_23-2147960605.jpg?size=626&ext=jpg&ga=GA1.1.1270014827.1685105541&semt=ais",
+        "content":"We guaranty the lower price for every single trip. Good working relationships with direct local owners of properties or services allowed us to give you a lower price."
+    }
+    
+]
