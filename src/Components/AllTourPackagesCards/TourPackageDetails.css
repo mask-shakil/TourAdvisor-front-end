@@ -1,0 +1,13 @@
+
+.form-group{
+    margin-left: 70px;
+}
+
+.form-control{
+    border: 2px solid goldenrod !important;
+}
+.btn{
+    margin-left: 70px;
+    margin-top: 10px;
+    width:86%;
+}

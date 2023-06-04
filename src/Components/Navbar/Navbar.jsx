@@ -40,7 +40,9 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="nav-item me-3">
-                <Link className="nav-link text-white">Contact us</Link>
+                <Link to={"/contact"} className="nav-link text-white">
+                  Contact us
+                </Link>
               </li>
               <li className="nav-item dropdown">
                 <Link
